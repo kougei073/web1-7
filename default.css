@@ -23,6 +23,13 @@ min-width:500px;
 float:left;
 }
 
+#picture{
+width: 24px;
+position: absolute;
+left: 50px;
+top: 50px;
+}
+
 aside{background-color:#191970;
 width:200;
 float:right;
