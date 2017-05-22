@@ -16,6 +16,12 @@ top:0;
  width:100%;
 }
 
+#main{
+width: calc(100% - 200px);
+min-width:500px;
+float:left;
+}
+
 aside{background-color:#191970;
 width:200;
 float:right;}
