@@ -12,9 +12,11 @@ header{
 background-color::#00ffff;}
 
 aside{background-color:#191970;
-width:200;}
+width:200;
+float:right;}
 
-footer{background-color:#ff4500;}
+footer{background-color:#ff4500;
+clear:both;}
 
 h1 span{font-size:2.0em;
 font-weight: bold;}
